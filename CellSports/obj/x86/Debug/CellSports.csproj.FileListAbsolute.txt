@@ -1,0 +1,12 @@
+F:\O-Desk Projects\Raheem Alibhai\Cappiloindex Latest Tool\CellSports\CellSports\bin\Debug\HtmlAgilityPack.pdb
+F:\O-Desk Projects\Raheem Alibhai\Cappiloindex Latest Tool\CellSports\CellSports\bin\Debug\HtmlAgilityPack.xml
+F:\O-Desk Projects\Raheem Alibhai\Cappiloindex Latest Tool\CellSports\CellSports\bin\Debug\Newtonsoft.Json.pdb
+F:\O-Desk Projects\Raheem Alibhai\Cappiloindex Latest Tool\CellSports\CellSports\bin\Debug\Newtonsoft.Json.xml
+F:\O-Desk Projects\Raheem Alibhai\Cappiloindex Latest Tool\CellSports\CellSports\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\O-Desk Projects\Raheem Alibhai\Cappiloindex Latest Tool\CellSports\CellSports\bin\Debug\WindowsFormsApplication1.exe
+F:\O-Desk Projects\Raheem Alibhai\Cappiloindex Latest Tool\CellSports\CellSports\bin\Debug\WindowsFormsApplication1.pdb
+F:\O-Desk Projects\Raheem Alibhai\Cappiloindex Latest Tool\CellSports\CellSports\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\O-Desk Projects\Raheem Alibhai\Cappiloindex Latest Tool\CellSports\CellSports\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\O-Desk Projects\Raheem Alibhai\Cappiloindex Latest Tool\CellSports\CellSports\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\O-Desk Projects\Raheem Alibhai\Cappiloindex Latest Tool\CellSports\CellSports\obj\x86\Debug\CellSports.csprojResolveAssemblyReference.cache
+F:\O-Desk Projects\Raheem Alibhai\Cappiloindex Latest Tool\CellSports\CellSports\obj\x86\Debug\CellSports.csproj.GenerateResource.Cache
